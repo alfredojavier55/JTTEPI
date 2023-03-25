@@ -1,5 +1,5 @@
-# JTTEPI
-Jornadas de transferencia tecnológica en Epidemiología veterinaria 2023
+# JTTPPC
+Jornadas de transferencia tecnológica para erradicación de Peste porcina clásica 2023
 Las jornadas serán realizadas desde el martes 28 de marzo al jueves 6 de abril de 2023 en las oficinas de Agrocalidad Tumbaco.
 La propuesta tiene el financiamiento de la Asociación de porcicultores Ecuador - ASPE
 
