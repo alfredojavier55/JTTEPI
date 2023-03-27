@@ -28,22 +28,22 @@ Capacitación práctica en análisis de información.
 Entrega de programas para análisis de información y visualización.
 
 ## Seminarios - talleres:
-- Introducción al análisis de redes de movilización para comprender estrategias en el control en la movilización de cerdos (2 horas).Taller de limpieza de datos de movilización y construcción de redes de movilización (8 horas). Lenguaje R.
+- Introducción al análisis de redes de movilización para comprender estrategias en el control en la movilización de cerdos (2 horas).Taller de limpieza de datos de movilización y construcción de redes de movilización (6 horas). Lenguaje R.
 
 - Introducción al análisis de modelos de regresión factores de riesgo y riesgo espacio temporal (2 horas).
-Taller de limpieza de datos y uso de modelos de regresión logística y bayesiana para análisis de factores de riesgo y espacio temporal (8 horas). Lenguaje R.
+Taller de limpieza de datos y uso de modelos de regresión logística y bayesiana para análisis de factores de riesgo y espacio temporal (6 horas). Lenguaje R.
 
 - Introducción al análisis de modelos matemáticos en la simulación de posibles estrategias de control (2 horas).
-Taller de análisis de parámetros para simulación, simulación paramétrica y estocástica, creación de modelos matemáticos simulación (8 horas). Lenguaje R.
+Taller de análisis de parámetros para simulación, simulación paramétrica y estocástica, creación de modelos matemáticos simulación (6 horas). Lenguaje R.
 
 - Introducción al análisis de datos del formulario de registro de eventos sanitarios SIZSE (2 horas).
-Taller de análisis de información de eventos sanitarios, evaluación de formulario, datos registrados, datos reportados, indicadores y reportes dinámicos sin uso de excel. Lenguaje R (8 horas).
+Taller de análisis de información de eventos sanitarios, evaluación de formulario, datos registrados, datos reportados, indicadores y reportes dinámicos sin uso de excel. Lenguaje R (6 horas).
 
 - Introducción al análisis y evaluación del sistema de vigilancia para enfermedades (2 horas).
-Taller de análisis de atributos del sistema de vigilancia de acuerdo al CDC y RiskSur. Componentes del sistema de vigilancia. Montaje de árboles de escenarios.  Parámetros del sistema y análisis de sensibilidad (8 horas). Lenguaje Python.
+Taller de análisis de atributos del sistema de vigilancia de acuerdo al CDC y RiskSur. Componentes del sistema de vigilancia. Montaje de árboles de escenarios.  Parámetros del sistema y análisis de sensibilidad (6 horas). Lenguaje Python.
 
 - Seminario de análisis de información de vacunación (2 horas). 
-Taller para aplicar un proceso de análisis de vacunación por parte de operadores, usando reportes del sistema Guia. Código para análisis geográfico espacial de vacunación por parte de operadores (8 horas).
+Taller para aplicar un proceso de análisis de vacunación por parte de operadores, usando reportes del sistema Guia. Código para análisis geográfico espacial de vacunación por parte de operadores (6 horas).
 
 ## Informes:
 Informe de recomendaciones técnicas de ejecución inmediata para reorientar el proceso de erradicación de la PPC y prevención de la PPA, entregables al Director Ejecutivo de Agrocalidad y Sociedad civil a través de publicación en la página de ASPE.
