@@ -27,10 +27,7 @@ Explicación de resultados de investigación.
 Capacitación práctica en análisis de información.
 Entrega de programas para análisis de información y visualización.
 
-## Informes:
-Informe de recomendaciones técnicas de ejecución inmediata para reorientar el proceso de erradicación de la PPC y prevención de la PPA, entregables al Director Ejecutivo de Agrocalidad y Sociedad civil a través de publicación en la página de ASPE.
-
-Nombres de seminarios - talleres:
+## Seminarios - talleres:
 - Introducción al análisis de redes de movilización para comprender estrategias en el control en la movilización de cerdos (2 horas).Taller de limpieza de datos de movilización y construcción de redes de movilización (8 horas). Lenguaje R.
 
 - Introducción al análisis de modelos de regresión factores de riesgo y riesgo espacio temporal (2 horas).
@@ -48,23 +45,22 @@ Taller de análisis de atributos del sistema de vigilancia de acuerdo al CDC y R
 - Seminario de análisis de información de vacunación (2 horas). 
 Taller para aplicar un proceso de análisis de vacunación por parte de operadores, usando reportes del sistema Guia. Código para análisis geográfico espacial de vacunación por parte de operadores (8 horas).
 
-### Nombre de informes:
-Informe de recomendaciones técnicas para contribuir en la erradicación de la Peste porcina clásica.
-Informe de recomendaciones técnicas para contribuir en la prevención y alerta temprana al ingreso de la Peste porcina Africana.
+## Informes:
+Informe de recomendaciones técnicas de ejecución inmediata para reorientar el proceso de erradicación de la PPC y prevención de la PPA, entregables al Director Ejecutivo de Agrocalidad y Sociedad civil a través de publicación en la página de ASPE.
 
-### Herramientas de visualización:
-Visualizador de información en página WEB de ASPE.
+## Herramientas de visualización:
+Visualizador de información geográfica en página WEB de ASPE-AGROCALIDAD.
 
 ## Capacitador
 Alfredo Acosta PhD [Linkedin](https://www.linkedin.com/in/alfredo-acosta-b680a25b/)
-En base a resultados del proyecto de doctorado titulado: Evaluación del sistema de vigilancia para peste porcina clásica [tesis-USP](10.11606/T.10.2022.tde-18112022-153214) Realizado en la Universidad de Sâo Paulo.
+La tecnología en análisis se basa en los resultados del proyecto de doctorado titulado: Evaluación del sistema de vigilancia para peste porcina clásica [Tesis-USP](10.11606/T.10.2022.tde-18112022-153214). Realizado entre 2018-2022 bajo la orientación del Professor Fernando Ferreira PhD. Departamento de Medicina Veterinaria Preventiva, Universidad de Sâo Paulo Brasil.
 
 ## Artículos publicados
 - Modelling control strategies against classical swine fever: Influence of traders and markets using static and temporal network [Enlace](https://doi.org/10.1016/j.prevetmed.2022.105683)
 - Network analysis of pig movements in Ecuador: Strengthening surveillance of classical swine fever [Enlace](https://doi.org/10.1111/tbed.14640)
 - Risk Factors and spacio temporal analysis of Classical swine fever in Ecuador [Enlace](https://www.mdpi.com/1999-4915/15/2/288)
 
-## Bibliografia
+### Bibliografia
 
 - 1 OIE-WAHIS OIE-WAHIS [Available online](https://wahis.oie.int/#/report-info?reportId=5912) (accessed on 10 February 2023).
 - 2 Acosta, A.; Cardenas, N.C.; Imbacuan, C.; Lentz, H.H.K.; Dietze, K.; Amaku, M.; Burbano, A.; Gonçalves, V.S.P.; Ferreira, F. Modelling Control Strategies against Classical Swine Fever: Influence of Traders and Markets Using Static and Temporal Networks in Ecuador. Preventive Veterinary Medicine 2022, 205, 105683, [Available online](doi:10.1016/j.prevetmed.2022.105683)
