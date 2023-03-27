@@ -66,8 +66,8 @@ En base a resultados del proyecto de doctorado titulado: Evaluación del sistema
 
 ## Bibliografia
 
-- 1 OIE-WAHIS OIE-WAHIS [Available online] (https://wahis.oie.int/#/report-info?reportId=5912) (accessed on 10 February 2023).
-- 2 Acosta, A.; Cardenas, N.C.; Imbacuan, C.; Lentz, H.H.K.; Dietze, K.; Amaku, M.; Burbano, A.; Gonçalves, V.S.P.; Ferreira, F. Modelling Control Strategies against Classical Swine Fever: Influence of Traders and Markets Using Static and Temporal Networks in Ecuador. Preventive Veterinary Medicine 2022, 205, 105683, doi:10.1016/j.prevetmed.2022.105683.
-- 3 Acosta, A.J.; Cardenas, N.C.; Pisuna, L.M.; Galvis, J.A.; Vinueza, R.L.; Vasquez, K.S.; Grisi-Filho, J.H.; Amaku, M.; Gonçalves, V.S.; Ferreira, F. Network Analysis of Pig Movements in Ecuador: Strengthening Surveillance of Classical Swine Fever. Transboundary and Emerging Diseases 2022, 69, e2898–e2912, doi:10.1111/tbed.14640.
-- 4 Acosta, A.; Dietze, K.; Baquero, O.; Osowski, G.V.; Imbacuan, C.; Burbano, A.; Ferreira, F.; Depner, K. Risk Factors and Spatiotemporal Analysis of Classical Swine Fever in Ecuador. Viruses 2023, 15, 288, doi:10.3390/v15020288.
-- 5 Batallas, A.J.A. Avaliação do sistema de vigilância para peste suína clássica do Equador: proposta de sistema de vigilância baseado em risco. text, Universidade de São Paulo, 2022.
+- 1 OIE-WAHIS OIE-WAHIS [Available online](https://wahis.oie.int/#/report-info?reportId=5912) (accessed on 10 February 2023).
+- 2 Acosta, A.; Cardenas, N.C.; Imbacuan, C.; Lentz, H.H.K.; Dietze, K.; Amaku, M.; Burbano, A.; Gonçalves, V.S.P.; Ferreira, F. Modelling Control Strategies against Classical Swine Fever: Influence of Traders and Markets Using Static and Temporal Networks in Ecuador. Preventive Veterinary Medicine 2022, 205, 105683, [Available online](doi:10.1016/j.prevetmed.2022.105683)
+- 3 Acosta, A.J.; Cardenas, N.C.; Pisuna, L.M.; Galvis, J.A.; Vinueza, R.L.; Vasquez, K.S.; Grisi-Filho, J.H.; Amaku, M.; Gonçalves, V.S.; Ferreira, F. Network Analysis of Pig Movements in Ecuador: Strengthening Surveillance of Classical Swine Fever. Transboundary and Emerging Diseases 2022, 69, e2898–e2912, [Available online ](doi:10.1111/tbed.14640).
+- 4 Acosta, A.; Dietze, K.; Baquero, O.; Osowski, G.V.; Imbacuan, C.; Burbano, A.; Ferreira, F.; Depner, K. Risk Factors and Spatiotemporal Analysis of Classical Swine Fever in Ecuador. Viruses 2023, 15, 288, [Available online](doi:10.3390/v15020288)
+- 5 Batallas, A.J.A. Avaliação do sistema de vigilância para peste suína clássica do Equador: proposta de sistema de vigilância baseado em risco. text, Universidade de São Paulo, 2022. [Available online](10.11606/T.10.2022.tde-18112022-153214)
