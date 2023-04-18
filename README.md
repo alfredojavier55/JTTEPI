@@ -53,7 +53,7 @@ Informe de recomendaciones técnicas para contribuir en la erradicación de la P
 Informe de recomendaciones técnicas para contribuir en la prevención y alerta temprana al ingreso de la Peste porcina Africana.
 
 ### Herramientas de visualización:
-Visualizador de información en página WEB de ASPE.
+Visualizador de información en página WEB de ASPE y AGROCALIDAD.
 
 ## Capacitador
 Alfredo Acosta PhD [Linkedin](https://www.linkedin.com/in/alfredo-acosta-b680a25b/)
