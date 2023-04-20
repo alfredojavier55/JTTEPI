@@ -59,8 +59,10 @@ Visualizador de información en página WEB de ASPE y AGROCALIDAD.
 Alfredo Acosta PhD [Linkedin](https://www.linkedin.com/in/alfredo-acosta-b680a25b/)
 En base a resultados del proyecto de doctorado titulado: Evaluación del sistema de vigilancia para peste porcina clásica [tesis-USP](10.11606/T.10.2022.tde-18112022-153214) Realizado en la Universidad de Sâo Paulo.
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 ## Artículos publicados
 - Modelling control strategies against classical swine fever: Influence of traders and markets using static and temporal network [Enlace](https://doi.org/10.1016/j.prevetmed.2022.105683)
 - Network analysis of pig movements in Ecuador: Strengthening surveillance of classical swine fever [Enlace](https://doi.org/10.1111/tbed.14640)
 - Risk Factors and spacio temporal analysis of Classical swine fever in Ecuador [Enlace](https://www.mdpi.com/1999-4915/15/2/288)
+
+## Visitas a este site
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
