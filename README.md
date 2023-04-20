@@ -64,5 +64,6 @@ En base a resultados del proyecto de doctorado titulado: Evaluación del sistema
 - Network analysis of pig movements in Ecuador: Strengthening surveillance of classical swine fever [Enlace](https://doi.org/10.1111/tbed.14640)
 - Risk Factors and spacio temporal analysis of Classical swine fever in Ecuador [Enlace](https://www.mdpi.com/1999-4915/15/2/288)
 
-<div align="right">  ## Visitas a este site
+<div align="right">Visitas a este site
+
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
